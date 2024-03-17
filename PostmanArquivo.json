@@ -162,7 +162,7 @@
 			"response": []
 		},
 		{
-			"name": "InsereUsuario Copy",
+			"name": "InsereDepartamento",
 			"event": [
 				{
 					"listen": "test",
@@ -183,7 +183,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"name\":\"Novo dep\"\n}",
+					"raw": "{\n\t\"name\":\"Departamento de Teste\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
